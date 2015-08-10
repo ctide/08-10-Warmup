@@ -1,0 +1,35 @@
+Part 1
+
+For each of the following JS programming topics, come up with a comprehensive explanation/summarization of the concept in under 2 sentences.
+
+Variable
+	A variable is a named space in memory which can store a piece of data. Their values can't be mutated, but can be reassigned.
+Conditional
+	A conditional is a special operator which compares two values. It returns true or false. 
+Array
+	An array is a list of numbered key-value pairs, and can hold basic data types as well as functions and objects. Its values can be changed (the array can be mutated).
+Object
+	An object is a list of key-value pairs, which can have named properties and is mutatable. Objects can have methods (functions) associated with its other keys (called properties) and can also inherit methods and properties.
+Function
+	A function is a piece of program within the main program that can be saved & executed at another point in time. It can be called repeatedly if necessary, and creates its own scope.
+
+
+
+
+
+Part 2
+
+Pretend you have a 5 year old brother. You love him and want him to be the best programmer in the world, so you're going to start teaching him JS now! For each of the following JS topics, come up with an explanation appropriate for a 5 year old. Get creative! Consider using analogies, drawings, or activities.
+
+(Yes, this is a real interview question I've come across)
+
+Variable
+	A variable is like something you can write or draw on a piece of paper. You can even use glitter or glue cool things to the page (like googly eyes) that do something when you touch it. On the other side of the page you write its name down (using a simple name that relates to the words/numbers/drawings on the other side). Then you put that piece of paper away in your desk (your memory). You do that on as many pieces of papers as you want. And when you need to see them again, you find it by looking at the names you wrote down. You can't add to or change what's on the paper unless you completely erase what's there and rewrite/draw/glue it back. But you can make copies and have other names for them on the back.
+Conditional
+	Pretend you have a bunch of drawings. Sometimes you have to decide which drawing is better (your favorite). You put two side-by-side and decide which one- the one on the left or the one on the right. Or imagine picking out two of your toys. Now you have to decide which one you don't like as much. Or you put two numbers next to each other. Which is one bigger? Smaller? Or are they the same? What you are doing is comparing the two (making a conditional statement), the same thing that the conditional operator makes. We use funny symbols that we put between the things we're comparing, to know what type of comparison we're making. 
+Array
+	Remember those pieces of paper that you wrote or drew on? Imagine drawing new ones, or taking some of your old ones, and then taping them together in the order you choose. Then on the back side of the papers, you number them (starting from zero) until you reach the end. You've made a connected "array" of papers! Now fold it up into a stack. On a separate piece of paper, you can write down a name for this stack of papers, and connect the two with a string or piece of yarn. Now you can put everything back in the desk with the rest of your papers. Whenever you pull out the piece of paper with the name on it, it will always know where that stack is located and will come out along with the stack you created (because of the string that attaches them together). You can even make another "name" page with a different name and also attach it to the stack with a different piece of string, so you now have two names for the same stack of papers! And you can also replace individual pages inside of the array at any time. 
+Object
+	An object is like the array you just made, but instead of writing numbers down on the back, you can keep the names. You can also create new pages with numbers/words/drawings/crazy-crafts on them that don't necessarily need to be taped to the whole stack of papers. But because they are related, we can attach them with a piece of yarn and they can be pulled out when we want.
+Function
+	A function is like one of the pieces of paper that you didn't just draw or write a letter/number on, but something a bit more special. Like the glitter or googly eyes that you glued to the page. Or a math problem. Or special instructions, like "go to bed" or "put your toys away" or "go play outside". Or even instructions that change your other papers - like "go take the paper you named 'red firetruck' and light it on fire". Or "find one of your 'car' stacks and add a few pages that makes the car a 'yellow sports car', and another stack that makes another car a 'yellow dumptruck'".
